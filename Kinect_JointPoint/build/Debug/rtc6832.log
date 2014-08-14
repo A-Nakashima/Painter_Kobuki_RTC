@@ -1,0 +1,31 @@
+Aug 07 05:59:39.714 INFO: manager: 1.1.0
+Aug 07 05:59:39.714 INFO: manager: Copyright (C) 2003-2010
+Aug 07 05:59:39.714 INFO: manager:   Noriaki Ando
+Aug 07 05:59:39.715 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 05:59:39.715 INFO: manager: Manager starting.
+Aug 07 05:59:39.715 INFO: manager: Starting local logging.
+Aug 07 05:59:39.730 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 05:59:39.731 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 05:59:41.762 INFO: ManagerServant: Master manager not found
+Aug 07 06:00:18.046 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 06:00:18.048 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 06:03:07.719 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 06:03:07.721 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 06:04:42.703 WARNING: out1: Dead connection: 0277ed13-8e81-4077-8850-ffb0323fc0c2
+Aug 07 06:04:43.703 WARNING: out1: Exception caught: minor code.
+Aug 07 06:12:45.626 WARNING: out1: Dead connection: 788de199-ab2f-4345-8df0-b0d08e88a6f9
+Aug 07 06:13:06.639 WARNING: out1: Dead connection: 29bdcf96-d68e-41ae-9698-33df9c7cd98f
+Aug 07 06:13:07.640 WARNING: out1: Exception caught: minor code.
+Aug 07 06:13:28.649 WARNING: out1: Exception caught: minor code.
+Aug 07 06:13:49.661 WARNING: out2: Dead connection: e20f62b2-ee86-4cf0-82bb-7f293543ced6
+Aug 07 06:15:40.327 WARNING: out2: connection_lost id: e20f62b2-ee86-4cf0-82bb-7f293543ced6
+Aug 07 06:16:01.323 WARNING: out2: Exception caught: minor code.
+Aug 07 06:16:01.539 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 06:16:01.540 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 06:17:09.673 WARNING: out1: connection_lost id: 2b8eedd5-6e0e-4290-8402-d53631d5b430
+Aug 07 06:17:10.676 WARNING: out1: Exception caught: minor code.
+Aug 07 06:22:17.675 ERROR: periodic_ec: The component is not responding.
+Aug 07 06:22:17.675 ERROR: periodic_ec: The component could not be deactivated.
+Aug 07 06:27:29.982 WARNING: out1: Dead connection: 74d3dcee-657a-410f-ba3e-ef3fa52b2897
+Aug 07 06:27:50.999 WARNING: out1: Exception caught: minor code.
+Aug 07 06:28:12.009 WARNING: out2: Dead connection: 994bf6c6-d6b2-4ad0-8ec0-cae585ee9ba6

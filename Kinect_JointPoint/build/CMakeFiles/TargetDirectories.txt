@@ -1,0 +1,7 @@
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/Kinect_JointPoint.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/Kinect_JointPointComp.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/doc.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/doxygen.dir
+C:/Users/Datsuo/workspace/RTsummer/Kinect_JointPoint/build/CMakeFiles/uninstall.dir

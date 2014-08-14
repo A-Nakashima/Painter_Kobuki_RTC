@@ -1,0 +1,11 @@
+[logging start 2014-08-07 15:34:56,143]
+2014-08-07 15:34:58,869 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 15:34:58,882 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 15:34:58,882 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 15:34:58,893 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 15:34:58,894 [9] INFO  (Manager) コンポーネントExamples.KKdrawComponentをロードしました
+2014-08-07 15:34:58,894 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 15:34:58,895 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 15:34:58,896 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 15:34:58,896 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 15:34:58,902 [9] INFO  (Manager) 初期化が完了しました。

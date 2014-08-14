@@ -1,0 +1,13 @@
+Aug 07 05:04:34.177 INFO: manager: 1.1.0
+Aug 07 05:04:34.177 INFO: manager: Copyright (C) 2003-2010
+Aug 07 05:04:34.177 INFO: manager:   Noriaki Ando
+Aug 07 05:04:34.178 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 05:04:34.178 INFO: manager: Manager starting.
+Aug 07 05:04:34.178 INFO: manager: Starting local logging.
+Aug 07 05:04:34.194 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 05:04:34.194 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 05:04:36.227 INFO: ManagerServant: Master manager not found
+Aug 07 05:05:14.752 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 05:05:14.755 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 05:08:10.577 ERROR: periodic_ec: The component is not responding.
+Aug 07 05:08:10.577 ERROR: periodic_ec: The component could not be deactivated.

@@ -1,0 +1,23 @@
+Aug 07 04:44:53.727 INFO: manager: 1.1.0
+Aug 07 04:44:53.727 INFO: manager: Copyright (C) 2003-2010
+Aug 07 04:44:53.727 INFO: manager:   Noriaki Ando
+Aug 07 04:44:53.728 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 04:44:53.728 INFO: manager: Manager starting.
+Aug 07 04:44:53.728 INFO: manager: Starting local logging.
+Aug 07 04:44:53.744 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 04:44:53.744 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 04:44:55.773 INFO: ManagerServant: Master manager not found
+Aug 07 04:51:09.322 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 04:51:09.324 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 04:58:40.991 WARNING: out1: Dead connection: 2e699e70-b4fc-4add-9793-f55730cd5699
+Aug 07 04:58:40.992 WARNING: out1: connection_lost id: 2e699e70-b4fc-4add-9793-f55730cd5699
+Aug 07 04:59:01.993 WARNING: out1: Exception caught: minor code.
+Aug 07 04:59:01.994 ERROR: out1: Invalid connector id: ЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ}C›dЭ
+Aug 07 04:59:22.993 WARNING: out2: connection_lost id: 39cb3674-3914-41de-8c00-1a2b7bd8d22e
+Aug 07 04:59:23.000 WARNING: out2: Dead connection: 39cb3674-3914-41de-8c00-1a2b7bd8d22e
+Aug 07 04:59:43.999 WARNING: out2: Exception caught: minor code.
+Aug 07 04:59:44.000 ERROR: out2: Invalid connector id: 39cb3674-3914-41de-8c00-1a2b7bd8d22e
+Aug 07 04:59:45.004 WARNING: out1: connection_lost id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 07 04:59:46.002 WARNING: out1: Exception caught: minor code.
+Aug 07 05:02:34.890 ERROR: periodic_ec: The component is not responding.
+Aug 07 05:02:34.890 ERROR: periodic_ec: The component could not be deactivated.

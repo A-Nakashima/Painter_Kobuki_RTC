@@ -1,0 +1,11 @@
+Aug 06 07:42:35.075 INFO: manager: 1.1.0
+Aug 06 07:42:35.076 INFO: manager: Copyright (C) 2003-2010
+Aug 06 07:42:35.076 INFO: manager:   Noriaki Ando
+Aug 06 07:42:35.076 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 06 07:42:35.076 INFO: manager: Manager starting.
+Aug 06 07:42:35.076 INFO: manager: Starting local logging.
+Aug 06 07:42:35.249 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 06 07:42:35.249 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 06 07:42:37.288 INFO: ManagerServant: Master manager not found
+Aug 06 07:42:40.716 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 07:42:40.718 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0

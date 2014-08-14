@@ -1,0 +1,15 @@
+Aug 08 04:08:11.596 INFO: manager: 1.1.0
+Aug 08 04:08:11.597 INFO: manager: Copyright (C) 2003-2010
+Aug 08 04:08:11.597 INFO: manager:   Noriaki Ando
+Aug 08 04:08:11.597 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 08 04:08:11.597 INFO: manager: Manager starting.
+Aug 08 04:08:11.597 INFO: manager: Starting local logging.
+Aug 08 04:08:11.700 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 08 04:08:11.701 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 08 04:08:13.750 INFO: ManagerServant: Master manager not found
+Aug 08 04:08:22.957 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 08 04:08:22.958 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 08 04:14:39.926 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 08 04:14:39.928 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 08 05:03:46.279 WARNING: Kinect_Skelton: Dead connection: b3dbe296-3dc7-4853-affe-2e2dcb917c53
+Aug 08 05:03:47.294 WARNING: Kinect_Skelton: Exception caught: minor code(1096024066).

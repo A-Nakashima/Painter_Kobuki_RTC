@@ -1,0 +1,11 @@
+[logging start 2014-05-02 17:36:15,999]
+2014-05-02 17:36:19,241 [10] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-05-02 17:36:19,254 [10] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-05-02 17:36:19,254 [10] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-05-02 17:36:19,266 [10] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-05-02 17:36:19,266 [10] INFO  (Manager) コンポーネントExamples.LRFViewerComponentをロードしました
+2014-05-02 17:36:19,267 [10] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-05-02 17:36:19,268 [10] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-05-02 17:36:19,268 [10] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-05-02 17:36:19,268 [10] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-05-02 17:36:19,274 [10] INFO  (Manager) 初期化が完了しました。

@@ -1,0 +1,11 @@
+[logging start 2014-05-02 00:43:53,426]
+2014-05-02 00:43:56,326 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-05-02 00:43:56,346 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-05-02 00:43:56,346 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-05-02 00:43:56,356 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-05-02 00:43:56,356 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-05-02 00:43:56,356 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-05-02 00:43:56,356 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-05-02 00:43:56,356 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-05-02 00:43:56,366 [9] INFO  (Manager) 初期化が完了しました。
+2014-05-02 00:43:56,366 [9] ERROR (Manager) コンポーネントの生成に失敗しました。

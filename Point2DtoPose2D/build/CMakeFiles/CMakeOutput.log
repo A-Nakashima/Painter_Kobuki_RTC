@@ -1,0 +1,205 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: CompilerIdC, 構成: Debug Win32 ------
+1>2014/08/06 23:48:09 にビルドを開始しました。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "Debug\CompilerIdC.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  CMakeCCompilerId.c
+1>Link:
+1>  CompilerIdC.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\2.8.12.2\CompilerIdC\.\CompilerIdC.exe
+1>PostBuildEvent:
+1>  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+1>FinalizeBuildStatus:
+1>  ファイル "Debug\CompilerIdC.unsuccessfulbuild" を削除しています。
+1>  "Debug\CompilerIdC.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:00.77
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj.user"
+
+The C compiler identification is MSVC, found in "C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/2.8.12.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: CompilerIdCXX, 構成: Debug Win32 ------
+1>2014/08/06 23:48:12 にビルドを開始しました。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "Debug\CompilerIdCXX.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  CMakeCXXCompilerId.cpp
+1>Link:
+1>  CompilerIdCXX.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\2.8.12.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>PostBuildEvent:
+1>  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+1>FinalizeBuildStatus:
+1>  ファイル "Debug\CompilerIdCXX.unsuccessfulbuild" を削除しています。
+1>  "Debug\CompilerIdCXX.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:00.86
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj.user"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1957409862
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec1957409862, 構成: Debug Win32 ------
+1>2014/08/06 23:48:16 にビルドを開始しました。
+1>PrepareForBuild:
+1>  ディレクトリ "C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "cmTryCompileExec1957409862.dir\Debug\cmTryCompileExec1957409862.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1957409862.dir\Debug\\" /Fd"cmTryCompileExec1957409862.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec1957409862.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1957409862.exe
+1>FinalizeBuildStatus:
+1>  ファイル "cmTryCompileExec1957409862.dir\Debug\cmTryCompileExec1957409862.unsuccessfulbuild" を削除しています。
+1>  "cmTryCompileExec1957409862.dir\Debug\cmTryCompileExec1957409862.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:01.92
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1211189433
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec1211189433, 構成: Debug Win32 ------
+1>2014/08/06 23:48:21 にビルドを開始しました。
+1>PrepareForBuild:
+1>  ディレクトリ "C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "cmTryCompileExec1211189433.dir\Debug\cmTryCompileExec1211189433.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1211189433.dir\Debug\\" /Fd"cmTryCompileExec1211189433.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec1211189433.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1211189433.exe
+1>FinalizeBuildStatus:
+1>  ファイル "cmTryCompileExec1211189433.dir\Debug\cmTryCompileExec1211189433.unsuccessfulbuild" を削除しています。
+1>  "cmTryCompileExec1211189433.dir\Debug\cmTryCompileExec1211189433.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:01.89
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec515117974
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec515117974, 構成: Debug Win32 ------
+1>2014/08/06 23:48:27 にビルドを開始しました。
+1>PrepareForBuild:
+1>  ディレクトリ "C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "cmTryCompileExec515117974.dir\Debug\cmTryCompileExec515117974.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec515117974.dir\Debug\\" /Fd"cmTryCompileExec515117974.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>LinkEmbedManifest:
+1>  cmTryCompileExec515117974.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec515117974.exe
+1>FinalizeBuildStatus:
+1>  ファイル "cmTryCompileExec515117974.dir\Debug\cmTryCompileExec515117974.unsuccessfulbuild" を削除しています。
+1>  "cmTryCompileExec515117974.dir\Debug\cmTryCompileExec515117974.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:02.07
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Datsuo/workspace/RTsummer/Point2DtoPose2D/build/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2472054481
+
+Microsoft(R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec2472054481, 構成: Debug Win32 ------
+1>2014/08/06 23:48:32 にビルドを開始しました。
+1>PrepareForBuild:
+1>  ディレクトリ "C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+1>InitializeBuildStatus:
+1>  "AlwaysCreate" が指定されたため "cmTryCompileExec2472054481.dir\Debug\cmTryCompileExec2472054481.unsuccessfulbuild" を作成しています。
+1>ClCompile:
+1>  Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.30319.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2472054481.dir\Debug\\" /Fd"cmTryCompileExec2472054481.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>LinkEmbedManifest:
+1>  cmTryCompileExec2472054481.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Point2DtoPose2D\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2472054481.exe
+1>FinalizeBuildStatus:
+1>  ファイル "cmTryCompileExec2472054481.dir\Debug\cmTryCompileExec2472054481.unsuccessfulbuild" を削除しています。
+1>  "cmTryCompileExec2472054481.dir\Debug\cmTryCompileExec2472054481.lastbuildstate" のタッチ タスクを実行しています。
+1>
+1>ビルドに成功しました。
+1>
+1>経過時間 00:00:01.63
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+

@@ -1,0 +1,12 @@
+[logging start 2014-08-07 15:27:56,828]
+2014-08-07 15:27:59,500 [8] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 15:27:59,513 [8] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 15:27:59,513 [8] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 15:27:59,524 [8] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 15:27:59,525 [8] INFO  (Manager) コンポーネントExamples.KKdrawComponentをロードしました
+2014-08-07 15:27:59,525 [8] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 15:27:59,527 [8] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 15:27:59,527 [8] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 15:27:59,527 [8] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 15:27:59,533 [8] INFO  (Manager) 初期化が完了しました。
+2014-08-07 15:30:39,254 [12] ERROR (IConfigurationAdapter) 指定されたキーはディレクトリ内に存在しませんでした。

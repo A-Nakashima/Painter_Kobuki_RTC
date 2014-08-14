@@ -1,0 +1,10 @@
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\bin\Debug\LRFViewer.exe
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\bin\Debug\LRFViewer.pdb
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.Form1.resources
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.Properties.Resources.resources
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.csproj.GenerateResource.Cache
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.exe
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.pdb
+D:\usr\aimadu\Software\myRTC\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.csprojResolveAssemblyReference.cache
+D:\usr\aimadu\Research\Moudou\RTMcamp2014\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.exe
+D:\usr\aimadu\Research\Moudou\RTMcamp2014\LRFViewer\LRFViewer\obj\x86\Debug\LRFViewer.pdb

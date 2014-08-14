@@ -1,0 +1,27 @@
+Aug 07 05:04:35.381 INFO: manager: 1.1.0
+Aug 07 05:04:35.381 INFO: manager: Copyright (C) 2003-2010
+Aug 07 05:04:35.381 INFO: manager:   Noriaki Ando
+Aug 07 05:04:35.381 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 05:04:35.381 INFO: manager: Manager starting.
+Aug 07 05:04:35.381 INFO: manager: Starting local logging.
+Aug 07 05:04:35.402 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 05:04:35.402 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 05:04:37.453 INFO: ManagerServant: Master manager not found
+Aug 07 05:05:14.702 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 05:05:14.705 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 05:08:57.568 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 07 05:09:18.619 WARNING: out1: Dead connection: 2e699e70-b4fc-4add-9793-f55730cd5699
+Aug 07 05:09:19.658 WARNING: out1: Exception caught: minor code.
+Aug 07 05:09:40.655 WARNING: out1: Exception caught: minor code.
+Aug 07 05:10:01.653 WARNING: out2: Dead connection: 39cb3674-3914-41de-8c00-1a2b7bd8d22e
+Aug 07 05:11:12.896 WARNING: out1: Dead connection: 2bcb0927-b589-4dc0-a638-1156f04d2d6e
+Aug 07 05:11:13.895 WARNING: out1: Dead connection: d57113f3-a39e-4fa3-9e74-36c16a13b001
+Aug 07 05:11:14.894 WARNING: out1: Dead connection: 36c397e8-9a52-4674-9269-19722fa4e503
+Aug 07 05:11:15.903 WARNING: out1: Exception caught: minor code.
+Aug 07 05:11:16.905 WARNING: out1: Exception caught: minor code.
+Aug 07 05:11:17.902 WARNING: out1: Exception caught: minor code.
+Aug 07 05:11:38.909 WARNING: out2: Dead connection: 39cb3674-3914-41de-8c00-1a2b7bd8d22e
+Aug 07 05:12:25.733 INFO: NamingManager: Name server: localhost (corba) disappeared.
+Aug 07 05:12:35.745 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 05:12:35.746 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 05:12:35.746 INFO: NamingManager: Connected to a name server: corba/localhost

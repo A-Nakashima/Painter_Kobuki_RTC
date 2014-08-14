@@ -1,0 +1,17 @@
+Aug 07 06:29:04.522 INFO: manager: 1.1.0
+Aug 07 06:29:04.522 INFO: manager: Copyright (C) 2003-2010
+Aug 07 06:29:04.522 INFO: manager:   Noriaki Ando
+Aug 07 06:29:04.522 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 06:29:04.522 INFO: manager: Manager starting.
+Aug 07 06:29:04.523 INFO: manager: Starting local logging.
+Aug 07 06:29:04.539 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 06:29:04.539 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 06:29:06.565 INFO: ManagerServant: Master manager not found
+Aug 07 06:30:26.671 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 06:30:26.673 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 06:34:01.607 WARNING: corror: connection_lost id: 0ae61158-cbb6-4025-944a-fda10603c80c
+Aug 07 06:34:22.610 WARNING: corror: Exception caught: minor code.
+Aug 07 06:42:09.581 WARNING: corror: connection_lost id: 673754aa-efa6-47a9-b4d6-56387d9a5039
+Aug 07 06:42:09.583 WARNING: corror: Exception caught: minor code.
+Aug 07 06:49:44.083 WARNING: corror: connection_lost id: da7181d9-62da-4423-942b-3443758823e8
+Aug 07 06:49:44.086 WARNING: corror: Exception caught: minor code.

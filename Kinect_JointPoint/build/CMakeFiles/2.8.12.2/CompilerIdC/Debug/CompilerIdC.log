@@ -1,0 +1,24 @@
+﻿2014/08/08 12:15:26 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\CMakeFiles\2.8.12.2\CompilerIdC\CompilerIdC.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\CompilerIdC.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt CMakeCCompilerId.c
+         CMakeCCompilerId.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CompilerIdC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\CMakeFiles\2.8.12.2\CompilerIdC\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 Debug\CMakeCCompilerId.obj
+         CompilerIdC.vcxproj -> C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\CMakeFiles\2.8.12.2\CompilerIdC\.\CompilerIdC.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\CompilerIdC.exe;#1" /manifest Debug\CompilerIdC.exe.intermediate.manifest
+       PostBuildEvent:
+         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+         :VCEnd
+         CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\CompilerIdC.unsuccessfulbuild" を削除しています。
+         "Debug\CompilerIdC.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\CMakeFiles\2.8.12.2\CompilerIdC\CompilerIdC.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.53

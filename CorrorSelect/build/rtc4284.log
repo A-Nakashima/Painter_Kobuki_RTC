@@ -1,0 +1,23 @@
+Aug 07 02:05:53.012 INFO: manager: 1.1.0
+Aug 07 02:05:53.013 INFO: manager: Copyright (C) 2003-2010
+Aug 07 02:05:53.013 INFO: manager:   Noriaki Ando
+Aug 07 02:05:53.013 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 07 02:05:53.013 INFO: manager: Manager starting.
+Aug 07 02:05:53.013 INFO: manager: Starting local logging.
+Aug 07 02:05:53.084 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 07 02:05:53.084 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 07 02:05:55.138 INFO: ManagerServant: Master manager not found
+Aug 07 02:06:35.218 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 02:06:35.220 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 02:07:34.327 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 02:07:34.328 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 02:09:55.036 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 07 02:09:55.038 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 07 02:18:47.720 ERROR: periodic_ec: The component is not responding.
+Aug 07 02:18:47.720 ERROR: periodic_ec: The component could not be deactivated.
+Aug 07 02:19:11.947 ERROR: periodic_ec: The component is not responding.
+Aug 07 02:19:11.947 ERROR: periodic_ec: The component could not be deactivated.
+Aug 07 02:25:39.700 WARNING: Kinect_Skelton: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 07 02:25:40.714 WARNING: Kinect_Skelton: Exception caught: minor code(1096024066).
+Aug 07 02:35:35.049 ERROR: periodic_ec: The component is not responding.
+Aug 07 02:35:35.049 ERROR: periodic_ec: The component could not be deactivated.

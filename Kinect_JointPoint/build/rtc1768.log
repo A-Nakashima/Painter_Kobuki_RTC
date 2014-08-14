@@ -1,0 +1,43 @@
+Aug 06 13:04:13.025 INFO: manager: 1.1.0
+Aug 06 13:04:13.025 INFO: manager: Copyright (C) 2003-2010
+Aug 06 13:04:13.025 INFO: manager:   Noriaki Ando
+Aug 06 13:04:13.025 INFO: manager:   Intelligent Systems Research Institute, AIST
+Aug 06 13:04:13.025 INFO: manager: Manager starting.
+Aug 06 13:04:13.025 INFO: manager: Starting local logging.
+Aug 06 13:04:13.196 INFO: NamingOnCorba: Endpoint for the CORBA naming service (localhost) is 127.0.0.1.
+Aug 06 13:04:13.196 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Aug 06 13:04:15.275 INFO: ManagerServant: Master manager not found
+Aug 06 13:04:31.274 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 13:04:31.275 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 13:44:47.051 WARNING: out1: connection_lost id: 9f60cfd5-ff94-47af-b694-bca2460764eb
+Aug 06 13:44:48.066 WARNING: out1: Exception caught: minor code.
+Aug 06 13:48:24.416 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 13:48:25.412 WARNING: out1: Exception caught: minor code.
+Aug 06 13:48:32.443 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 13:48:32.445 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 13:49:47.413 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 13:49:48.413 WARNING: out1: Exception caught: minor code.
+Aug 06 13:50:07.865 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 13:50:07.867 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 13:54:06.962 WARNING: out1: connection_lost id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 13:54:07.388 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 13:54:08.389 WARNING: out1: Exception caught: minor code.
+Aug 06 13:54:08.391 ERROR: out1: Invalid connector id: ,pull
+Aug 06 13:55:22.361 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 13:55:22.363 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 13:57:28.027 WARNING: out1: connection_lost id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 13:57:29.076 WARNING: out1: Exception caught: minor code.
+Aug 06 14:00:02.247 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 14:00:02.248 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 14:30:21.164 WARNING: out1: connection_lost id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 14:30:21.464 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 14:30:22.536 WARNING: out1: Exception caught: minor code.
+Aug 06 14:30:22.537 ERROR: out1: Invalid connector id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 14:31:53.977 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 14:31:53.980 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 14:33:51.433 WARNING: out1: Dead connection: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 14:33:52.438 WARNING: out1: Exception caught: minor code.
+Aug 06 14:34:05.605 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Aug 06 14:34:05.607 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+Aug 06 14:36:10.613 WARNING: out1: connection_lost id: e84db647-839b-43f4-bd4f-19f725bf9c43
+Aug 06 14:36:10.625 WARNING: out1: Exception caught: minor code.

@@ -1,0 +1,22 @@
+﻿2014/08/08 12:16:09 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\Kinect_JointPoint.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Kinect_JointPoint.dir\Debug\Kinect_JointPoint.unsuccessfulbuild" を作成しています。
+       CustomBuild:
+         すべての出力が最新のものです。
+       ClCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+       Manifest:
+         すべての出力が最新のものです。
+       FinalizeBuildStatus:
+         ファイル "Kinect_JointPoint.dir\Debug\Kinect_JointPoint.unsuccessfulbuild" を削除しています。
+         "Kinect_JointPoint.dir\Debug\Kinect_JointPoint.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Datsuo\workspace\RTsummer\Kinect_JointPoint\build\Kinect_JointPoint.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.23

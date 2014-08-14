@@ -1,0 +1,14 @@
+[logging start 2014-08-07 14:08:05,323]
+2014-08-07 14:08:08,149 [10] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 14:08:08,165 [10] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 14:08:08,165 [10] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 14:08:08,183 [10] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 14:08:08,184 [10] INFO  (Manager) コンポーネントExamples.KKdrawComponentをロードしました
+2014-08-07 14:08:08,184 [10] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-07 14:08:08,186 [10] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-07 14:08:08,186 [10] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-07 14:08:08,186 [10] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-07 14:08:08,192 [10] INFO  (Manager) 初期化が完了しました。
+2014-08-07 14:18:02,744 [22] ERROR (IPortServiceAdapter) Communication Error.
+2014-08-07 14:18:41,773 [3] ERROR (IPortServiceAdapter) Communication Error.
+[logging end 2014-08-07 14:08:05,325]

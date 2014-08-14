@@ -1,0 +1,35 @@
+[logging start 2014-08-08 11:21:57,325]
+2014-08-08 11:22:01,269 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-08 11:22:01,283 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-08 11:22:01,283 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-08 11:22:01,295 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-08 11:22:01,295 [9] INFO  (Manager) コンポーネントExamples.KKdrawComponentをロードしました
+2014-08-08 11:22:01,296 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2014-08-08 11:22:01,297 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2014-08-08 11:22:01,297 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2014-08-08 11:22:01,297 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2014-08-08 11:22:01,303 [9] INFO  (Manager) 初期化が完了しました。
+2014-08-08 11:22:02,628 [9] ERROR (Manager) ネーミングサービスへの登録に失敗しました。
+omg.org.CORBA.TRANSIENT: CORBA system exception : omg.org.CORBA.TRANSIENT [Unable to connect to target.] , completed: Completed_No minor: 4000
+
+Server stack trace: 
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.AllocateConnection(IMessage msg, Ior target, IIorProfile& selectedProfile, UInt32& reqId)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.SyncProcessMessageOnce(IMessage msg, Ior target)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   場所 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 omg.org.CORBA.IObject._is_a(String repositoryId)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.CheckAssignableRemote(Type formal, String url)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.IsInterfaceCompatible(Ior target, Type neededTargetType, String targetUrl)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.VerifyInterfaceCompatible(Ior target, IMessage msg)
+   場所 Ch.Elca.Iiop.IiopClientFormatterSink.SyncProcessMessage(IMessage msg)
+   場所 System.Runtime.Remoting.Proxies.RemotingProxy.CallProcessMessage(IMessageSink ms, IMessage reqMsg, ArrayWithSize proxySinks, Thread currentThread, Context currentContext, Boolean bSkippingContextChain)
+   場所 System.Runtime.Remoting.Proxies.RemotingProxy.InternalInvoke(IMethodCallMessage reqMcmMsg, Boolean useDispatchMessage, Int32 callType)
+   場所 System.Runtime.Remoting.Proxies.RemotingProxy.Invoke(IMessage reqMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 omg.org.CosNaming.NamingContext.rebind(NameComponent[] nameComponents, MarshalByRefObject obj)
+   場所 OpenRTM.IIOP.CorbaNaming.Rebind(NameComponent[] name, MarshalByRefObject obj, Boolean force)
+   場所 OpenRTM.IIOP.CorbaNamingServiceClient.RegisterRTObject(String name, IRTObject obj)
+   場所 OpenRTM.Core.Manager.CreateComponent(String moduleName, String instanceName, String namingName)
